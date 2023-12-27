@@ -36,3 +36,10 @@ body {
   font-size: 23px;
   margin-right: 20px;
 }
+.App a {
+  color: #fff;
+  text-decoration: none;
+}
+.App a:hover {
+  text-decoration: underline;
+}
