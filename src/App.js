@@ -1,3 +1,4 @@
+import React from "react";
 import "./styles.css";
 import Input from "./input";
 import Footer from "./Footer";
